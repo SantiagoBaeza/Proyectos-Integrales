@@ -8,7 +8,7 @@ Cada proyecto incluye documentación y enlaces a los repositorios específicos d
 
 ## Brazo Robot 
 Control de servomotores con Arduino, lógica de programación en C++, modelado e impresión 3D de piezas mecánicas.  
-🔗 [Ver proyecto del Brazo Robot](ENLACE-AQUI)
+🔗 [En construcción](enlace_aca)
 
 ---
 
