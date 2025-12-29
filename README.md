@@ -18,4 +18,4 @@ Cada sección enlaza a repositorios específicos donde se encuentra la documenta
 
 ---
 
-> 🧩 Estos espacios estan en contrucción y se actualizan de forma frecuente.
+> 🧩 Estos espacios estan en construcción y se actualizan de forma frecuente.
