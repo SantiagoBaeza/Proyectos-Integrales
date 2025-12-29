@@ -15,3 +15,7 @@ Control de servomotores con Arduino, lógica de programación en C++, modelado e
 ### Objetivos
 Este repositorio funciona como índice de proyectos multidisciplinarios.  
 Cada sección enlaza a repositorios específicos donde se encuentra la documentación y el código.
+
+---
+
+> 🧩 Estos espacios estan en contrucción y se actualizan de forma frecuente.
