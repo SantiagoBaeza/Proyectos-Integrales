@@ -11,13 +11,14 @@ Cada proyecto incluye documentación y enlaces a los repositorios específicos d
 
 ---
 
-### 00. Brazo Robot
+### 00. Brazo Robot [N/A]
+
 - 📅 Fecha: ...  
 - 🔗 [En construcción](enlace_aca)  
 - 🛠️ Tecnologías: Arduino, C++, servomotores, modelado 3D, impresión 3D  
 - 📄 Descripción: Control de servomotores con Arduino, lógica de programación en C++, modelado e impresión 3D de piezas mecánicas.
 
-### 01. ...
+### 01. ...[N/A]
 - 📅 Fecha: ...  
 - 🔗 [En construcción](enlace_aca)  
 - 🛠️ Tecnologías: ...  
